@@ -1,0 +1,4 @@
+AuthName "Popis svih korisnika"
+AuthType Basic
+AuthUserFile /var/www/WebDiP/2015_projekti/WebDiP2015x060/privatno/korisnici.txt
+Require valid-user

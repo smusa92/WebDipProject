@@ -1,0 +1,20 @@
+
+
+
+<ul>
+    
+        <a class="nazad" href="#" onclick="history.back();"></a>
+    
+    <li>
+        <a href="../PHP/index.php">Home</a>
+    </li>
+
+    <li>
+        <a href="../html/dokumentacija.html">Dokumentacija</a>
+    </li>
+    <li>
+        <a href="../html/o_autoru.html">O autoru</a>
+    </li>
+ 
+
+</ul>
